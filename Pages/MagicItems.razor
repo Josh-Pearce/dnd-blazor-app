@@ -1,0 +1,48 @@
+@page "/magicitems"
+
+<PageTitle>Magic Items</PageTitle>
+
+@using DnD_BlazorApp.Data
+@using DnD_BlazorApp.Models
+@inject EquipmentService EquipmentService
+
+<h1>Magic Items</h1>
+
+<p>A list of magic items will be displayed below.</p>
+
+@if (magicItems == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>Name</th>
+                <th>URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in magicItems)
+            {
+                <tr>
+                    <td>@item.Index</td>
+                    <td>@item.Name</td>
+                    <td>@item.Url</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+}
+
+@code {
+    private IEnumerable<DndApiReference>? magicItems;
+
+    protected override async Task OnInitializedAsync()
+    {
+        magicItems = await EquipmentService.GetMagicItems();
+    }
+}
