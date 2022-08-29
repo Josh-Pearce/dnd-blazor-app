@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "DnD_BlazorApp": {
+    "DndBlazorApp": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

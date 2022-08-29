@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dje0VaJYEdYC6XzAqrGKIUVAw+naCCvK6oFPdmBAF+NkUyNRIEf+u0PytbdnoRoEzdX4zIqEmJz1Y7ZmG0I1ow==",
+  "dgSpecHash": "rf8bq0P/i4LRqZT4M5WwTtxybnoPsM1g9rU9ns/FGJYG3JvMtRafxdpbEqbYYswop/Bl3p48Qun1Hk/5QWXfxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\DnD_BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\DndBlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joshp\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\joshp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

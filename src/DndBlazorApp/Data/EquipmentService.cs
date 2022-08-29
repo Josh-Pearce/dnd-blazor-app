@@ -1,8 +1,8 @@
 using System.Text.Json;
-using DnD_BlazorApp.Interfaces;
-using DnD_BlazorApp.Models;
+using DndBlazorApp.Interfaces;
+using DndBlazorApp.Models;
 
-namespace DnD_BlazorApp.Data;
+namespace DndBlazorApp.Data;
 
 public class EquipmentService
 {
@@ -15,8 +15,8 @@ public class EquipmentService
 
     public async Task<IEnumerable<DndApiReference>> GetMagicItems()
     {
-        HttpRequestMessage request = new(HttpMethod.Get,"https://dnd5eapi.co/api/magic-items");
-        
+        HttpRequestMessage request = new(HttpMethod.Get, "https://dnd5eapi.co/api/magic-items");
+
         using var response = await _apiHelper.ApiClient.SendAsync(request);
 
         if (response.IsSuccessStatusCode)
@@ -30,7 +30,7 @@ public class EquipmentService
             return Enumerable.Empty<DndApiReference>();
         }
     }
-    
+
 
     // public Task<WeatherForecast[]> GetForecastAsync(DateTime startDate)
     // {

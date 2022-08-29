@@ -1,7 +1,7 @@
 using System.Net.Http.Headers;
-using DnD_BlazorApp.Interfaces;
+using DndBlazorApp.Interfaces;
 
-namespace DnD_BlazorApp;
+namespace DndBlazorApp.Data;
 
 public class ApiHelper : IApiHelper
 {

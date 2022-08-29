@@ -1,4 +1,4 @@
-namespace DnD_BlazorApp.Data;
+namespace DndBlazorApp.Data;
 
 public class WeatherForecast
 {

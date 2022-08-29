@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using DnD_BlazorApp.Data;
-using DnD_BlazorApp.Interfaces;
-using DnD_BlazorApp;
+using DndBlazorApp;
+using DndBlazorApp.Data;
+using DndBlazorApp.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

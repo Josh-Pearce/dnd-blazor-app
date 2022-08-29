@@ -1,8 +1,9 @@
 using System.Text.Json.Serialization;
 
-namespace DnD_BlazorApp.Models;
+namespace DndBlazorApp.Models;
 
-public class DndApiReference {
+public class DndApiReference
+{
 
     [JsonPropertyName("index")]
     public string? Index { get; set; }

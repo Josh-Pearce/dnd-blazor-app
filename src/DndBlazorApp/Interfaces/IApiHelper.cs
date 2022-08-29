@@ -1,6 +1,6 @@
-namespace DnD_BlazorApp.Interfaces;
+namespace DndBlazorApp.Interfaces;
 
-public interface IApiHelper 
+public interface IApiHelper
 {
     HttpClient ApiClient { get; }
 }

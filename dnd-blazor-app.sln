@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnD_BlazorApp", "src\DndBlazorApp\DnD_BlazorApp.csproj", "{BA220724-AD68-446C-9746-59769C9C2B57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DndBlazorApp", "src\DndBlazorApp\DndBlazorApp.csproj", "{BA220724-AD68-446C-9746-59769C9C2B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

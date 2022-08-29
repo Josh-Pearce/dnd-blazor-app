@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "CCmaZDT0VH1LaPUPrrQzZHR0XDB9xa9IQEYyAxangFo=",
-  "Source": "DnD_BlazorApp",
-  "BasePath": "_content/DnD_BlazorApp",
+  "Hash": "4kvzKq3qn+q1yfEw2I5fK/7t+rVH1wce7dhuNLKtgOU=",
+  "Source": "DndBlazorApp",
+  "BasePath": "_content/DndBlazorApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "DnD_BlazorApp/wwwroot",
-      "Source": "DnD_BlazorApp",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "Name": "DndBlazorApp\\wwwroot",
+      "Source": "DndBlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/bundle/DnD_BlazorApp.styles.css",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DndBlazorApp.styles.css",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/bundle/",
-      "BasePath": "_content/DnD_BlazorApp",
-      "RelativePath": "DnD_BlazorApp.styles.css",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DndBlazorApp",
+      "RelativePath": "DndBlazorApp.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/bundle/DnD_BlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DndBlazorApp.styles.css"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/DnD_BlazorApp.bundle.scp.css",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DndBlazorApp.bundle.scp.css",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/",
-      "BasePath": "_content/DnD_BlazorApp",
-      "RelativePath": "DnD_BlazorApp.bundle.scp.css",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DndBlazorApp",
+      "RelativePath": "DndBlazorApp.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -48,14 +48,14 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/DnD_BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DndBlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/bootstrap/bootstrap.min.css",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -65,14 +65,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -82,31 +82,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/FONT-LICENSE",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
-    },
-    {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "SourceId": "DnD_BlazorApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -116,14 +99,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -133,14 +116,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -150,14 +133,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -167,14 +150,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -184,14 +167,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -201,14 +184,31 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/ICON-LICENSE",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "DndBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -218,14 +218,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/open-iconic/README.md",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -235,14 +235,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/css/site.css",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -252,14 +252,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/favicon.ico",
-      "SourceId": "DnD_BlazorApp",
+      "Identity": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\favicon.ico",
+      "SourceId": "DndBlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/joshpearce/Documents/VSCode Projects/DnD_BlazorApp/DnD_BlazorApp/wwwroot/",
-      "BasePath": "_content/DnD_BlazorApp",
+      "ContentRoot": "C:\\Users\\joshp\\source\\repos\\dnd-blazor-app\\src\\DndBlazorApp\\wwwroot\\",
+      "BasePath": "_content/DndBlazorApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     }
   ]
 }
